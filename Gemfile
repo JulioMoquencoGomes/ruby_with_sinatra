@@ -7,3 +7,4 @@ source "https://rubygems.org"
 gem "sinatra"
 gem "rackup"
 gem "puma"
+gem 'mysql2', '~> 0.5.3'
