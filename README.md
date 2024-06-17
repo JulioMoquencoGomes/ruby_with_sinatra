@@ -1,2 +1,2 @@
-# ruby_with_sinatra
-project ruby with sinatra
+# Projeto de aprendizagem
+Utilizando ruby puro e sinatra apenas.
